@@ -23,3 +23,4 @@
 [2026-08-19T10:22:00] implemented active link highlights on the desktop header
 [2026-08-19T10:23:00] added the layout grid for regional monastery display
 [2026-08-19T10:24:00] created page title and meta description updates on route change
+[2026-08-19T10:25:00] added base styling for error states and empty results
