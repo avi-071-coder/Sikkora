@@ -17,3 +17,4 @@
 [2026-08-19T10:16:00] designed the typography system with serif headings
 [2026-08-19T10:17:00] integrated the vector paths for regional map layout
 [2026-08-19T10:18:00] implemented region selection states on the interactive map
+[2026-08-19T10:19:00] added custom scrollbar styling for parchment aesthetic
