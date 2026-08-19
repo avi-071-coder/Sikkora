@@ -8,3 +8,4 @@
 [2026-08-19T10:07:00] implemented the responsive mobile menu toggler
 [2026-08-19T10:08:00] created the basic footer component with site links
 [2026-08-19T10:09:00] added the initial dataset structures for monasteries
+[2026-08-19T10:10:00] implemented the geographic region filtering on explore page
