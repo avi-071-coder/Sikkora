@@ -20,3 +20,4 @@
 [2026-08-19T10:19:00] added custom scrollbar styling for parchment aesthetic
 [2026-08-19T10:20:00] configured framer motion global animation parameters
 [2026-08-19T10:21:00] added basic accessibility tags to navigational elements
+[2026-08-19T10:22:00] implemented active link highlights on the desktop header
