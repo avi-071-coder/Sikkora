@@ -1,3 +1,4 @@
 [2026-08-19T10:00:00] initialized the vite project structure and tailwind config
 [2026-08-19T10:01:00] configured the local dev server and added base layout
 [2026-08-19T10:02:00] added standard html5 viewport and metadata tags
+[2026-08-19T10:03:00] created initial routing for home and explore screens
