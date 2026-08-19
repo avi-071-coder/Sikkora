@@ -1,1 +1,2 @@
 [2026-08-19T10:00:00] initialized the vite project structure and tailwind config
+[2026-08-19T10:01:00] configured the local dev server and added base layout
