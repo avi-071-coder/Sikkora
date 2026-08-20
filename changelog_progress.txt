@@ -24,3 +24,4 @@
 [2026-08-19T10:23:00] added the layout grid for regional monastery display
 [2026-08-19T10:24:00] created page title and meta description updates on route change
 [2026-08-19T10:25:00] added base styling for error states and empty results
+[2026-08-20T10:00:00] created the detail page structure for monastic sites
