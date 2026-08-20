@@ -32,3 +32,4 @@
 [2026-08-20T10:05:00] implemented hotspots inside the virtual tour viewport
 [2026-08-20T10:06:00] added look controls for the 360 virtual tour viewer
 [2026-08-20T10:07:00] designed the local attractions block under monastery details
+[2026-08-20T10:08:00] implemented the permit info overlay for north sikkim sites
