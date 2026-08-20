@@ -47,3 +47,4 @@
 [2026-08-20T10:20:00] added category filter tags to the thangka gallery
 [2026-08-20T10:21:00] implemented search filters inside the gallery view
 [2026-08-20T10:22:00] added zoom and pan touch controls to lightbox modal
+[2026-08-20T10:23:00] implemented download handlers for public domain archive images
