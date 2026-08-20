@@ -44,3 +44,4 @@
 [2026-08-20T10:17:00] created the sacred thangka gallery page layout
 [2026-08-20T10:18:00] added high resolution image links for thangka scroll views
 [2026-08-20T10:19:00] implemented full screen lightbox viewer for gallery items
+[2026-08-20T10:20:00] added category filter tags to the thangka gallery
