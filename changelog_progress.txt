@@ -26,3 +26,4 @@
 [2026-08-19T10:25:00] added base styling for error states and empty results
 [2026-08-20T10:00:00] created the detail page structure for monastic sites
 [2026-08-20T10:01:00] implemented the image slider for monastery galleries
+[2026-08-20T10:02:00] added physical elevation and district stats to detail header
