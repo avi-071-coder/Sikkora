@@ -30,3 +30,4 @@
 [2026-08-20T10:03:00] implemented the 360 degree panoramic viewer component
 [2026-08-20T10:04:00] added panorama nodes for Rumtek courtyard and shrine
 [2026-08-20T10:05:00] implemented hotspots inside the virtual tour viewport
+[2026-08-20T10:06:00] added look controls for the 360 virtual tour viewer
