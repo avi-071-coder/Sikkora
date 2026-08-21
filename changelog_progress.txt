@@ -54,3 +54,4 @@
 [2026-08-21T10:01:00] added basic greeting replies to the chat assistant
 [2026-08-21T10:02:00] implemented key intent matching rules for history queries
 [2026-08-21T10:03:00] added localized attraction information to chat responses
+[2026-08-21T10:04:00] implemented manners and etiquette guides in chat engine
