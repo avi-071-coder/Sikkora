@@ -60,3 +60,4 @@
 [2026-08-21T10:07:00] implemented the historical overlay slider component
 [2026-08-21T10:08:00] added comparison view for historical sketches and modern views
 [2026-08-21T10:09:00] designed the wax seal parchment theme for documents
+[2026-08-21T10:10:00] added historical transcript of the Rumtek Charter
