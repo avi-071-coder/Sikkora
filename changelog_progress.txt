@@ -58,3 +58,4 @@
 [2026-08-21T10:05:00] added pilgrimage circuit tour recommendations in bot engine
 [2026-08-21T10:06:00] created the declassified archives section layout
 [2026-08-21T10:07:00] implemented the historical overlay slider component
+[2026-08-21T10:08:00] added comparison view for historical sketches and modern views
