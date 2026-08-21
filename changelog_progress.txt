@@ -66,3 +66,4 @@
 [2026-08-21T10:13:00] added the Tashiding water prediction prophecy manuscript
 [2026-08-21T10:14:00] added the Ralong Kagyu commemoration scroll transcription
 [2026-08-21T10:15:00] added the Phodong northern frontier forest grant document
+[2026-08-21T10:16:00] removed box borders from badge elements globally
