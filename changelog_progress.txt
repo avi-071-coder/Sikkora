@@ -51,3 +51,4 @@
 [2026-08-20T10:24:00] added custom tooltips for regional icons on map
 [2026-08-20T10:25:00] integrated fluid page transition animations on router hooks
 [2026-08-21T10:00:00] implemented the sacred guide chatbot chatbot window
+[2026-08-21T10:01:00] added basic greeting replies to the chat assistant
